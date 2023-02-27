@@ -1,5 +1,5 @@
 # Analog-clock with digital 
-# open https://ganeshparjapt.github.io/Analog-clock/
+# open  https://ganeshparjapt.github.io/Analog-Digital-clock/
 design by ganesh Animated Analog clock with digital indan standerd time zone 
 
 ==>> Animated Analog Clock using HTML,CSS & javaScript
